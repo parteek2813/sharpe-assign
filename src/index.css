@@ -1,0 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Raleway:wght@100&family=Space+Mono&display=swap");
+body {
+  background-color: black;
+  font-family: "Proto";
+  src: local("proto-regular"), url(./fonts/proto-regular.ttf) format("truetype");
+}

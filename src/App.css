@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --grey: #585858;
+  --lightgrey: #303030;
+  --blackText: #424242;
+}
+
+.App {
+  text-align: center;
+}
